@@ -1,0 +1,4 @@
+C:\Users\DarkKnight!!\source\repos\newfo\nefo\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\DarkKnight!!\source\repos\newfo\nefo\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\DarkKnight!!\source\repos\newfo\nefo\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\DarkKnight!!\source\repos\newfo\nefo\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
